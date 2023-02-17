@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GitColab.iml" filepath="$PROJECT_DIR$/GitColab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitColab.iml" filepath="$PROJECT_DIR$/.idea/GitColab.iml" />
     </modules>
   </component>
 </project>
